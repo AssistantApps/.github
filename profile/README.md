@@ -5,9 +5,9 @@ These public repositories can be used by anyone to integrate with the AssistantA
 Check out our [WEBSITE][website]
 
 Our current apps: 
-- [<img align="left" alt="nmsassistant.com" width="22px" src="../img/assistantNMS.png" />Assistant for No Man's Sky][assistantnms]
-- [<img align="left" alt="scrapassistant.com" width="22px" src="../img/assistantSMS.png" />Assistant for Scrap Mechanic][assistantsms]
-- [<img align="left" alt="Kronos" width="22px" src="../img/kronos.png" />Kronos][assistantKronos]
+- [<img align="left" alt="nmsassistant.com" width="22px" src="https://github.com/AssistantApps/.github/raw/main/img/assistantNMS.png" />Assistant for No Man's Sky][assistantnms]
+- [<img align="left" alt="scrapassistant.com" width="22px" src="https://github.com/AssistantApps/.github/raw/main/img/assistantSMS.png" />Assistant for Scrap Mechanic][assistantsms]
+- [<img align="left" alt="Kronos" width="22px" src="https://github.com/AssistantApps/.github/raw/main/img/kronos.png" />Kronos][assistantKronos]
 
 
 [website]: https://assistantapps.com?ref=AssistantAppsGithub
