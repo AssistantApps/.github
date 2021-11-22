@@ -1,2 +1,1 @@
-# .github
-Special repository
+# Welcome to the AssistantApps
