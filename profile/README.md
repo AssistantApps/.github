@@ -2,8 +2,7 @@
 
 These public repositories can be used by anyone to integrate with the AssistantApps services or make use of functions common in the apps within the AssistantApps range.
 
-Check out our [homepage][website]
-Check out our [documentation][docsWebsite]
+Check out our [homepage][website] and [documentation][docsWebsite]
 
 **Our current apps:**
 - [<img align="left" alt="nmsassistant.com" width="22px" src="https://github.com/AssistantApps/.github/raw/main/img/assistantNMS.png" />Assistant for No Man's Sky][assistantnms]
