@@ -2,7 +2,8 @@
 
 These public repositories can be used by anyone to integrate with the AssistantApps services or make use of functions common in the apps within the AssistantApps range.
 
-Check out our [homepage][website] and [documentation][docsWebsite]
+Check out our [homepage][website] and [documentation][docsWebsite] <br />
+Looking for the [Assistant for No Man's Sky Github Organisation][assistantnmsGithub]?
 
 **Our current apps:**
 - [<img align="left" alt="nmsassistant.com" width="22px" src="https://github.com/AssistantApps/.github/raw/main/img/assistantNMS.png" />Assistant for No Man's Sky][assistantnms]
@@ -15,4 +16,5 @@ Check out our [homepage][website] and [documentation][docsWebsite]
 [assistantKronos]: https://play.google.com/store/apps/details?id=companion.kronosflutter&ref=AssistantAppsGithub
 [assistantnms]: https://nmsassistant.com?ref=AssistantAppsGithub
 [assistantsms]: https://scrapassistant.com?ref=AssistantAppsGithub
+[assistantnmsGithub]: https://github.com/AssistantNMS?ref=AssistantAppsGithub
 
