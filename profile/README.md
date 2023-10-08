@@ -12,6 +12,12 @@ Looking for the [Assistant for No Man's Sky Github Organisation][assistantnmsGit
 - [<img align="left" alt="Forest" width="22px" src="https://cdn.assistantapps.com/icon/forest.jpg" />Companion of the Forest][assistantForest]
 
 
+---
+
+[![hacktoberfest logo](../img/hacktoberfest2023.svg)][[hactoberfestWebsite]]
+
+Get rewarded for making Pull Requests into many of out repositories! Check out the [Hacktoberfest website][hactoberfestWebsite] for more details! 🥳
+
 [website]: https://assistantapps.com?ref=AssistantAppsGithub
 [docsWebsite]: https://docs.assistantapps.com?ref=AssistantAppsGithub
 [assistantKronos]: https://play.google.com/store/apps/details?id=companion.kronosflutter&ref=AssistantAppsGithub
@@ -19,4 +25,4 @@ Looking for the [Assistant for No Man's Sky Github Organisation][assistantnmsGit
 [assistantnms]: https://nmsassistant.com?ref=AssistantAppsGithub
 [assistantsms]: https://scrapassistant.com?ref=AssistantAppsGithub
 [assistantnmsGithub]: https://github.com/AssistantNMS?ref=AssistantAppsGithub
-
+[hactoberfestWebsite]: https://hacktoberfest.com
