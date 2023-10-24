@@ -14,7 +14,7 @@ Looking for the [Assistant for No Man's Sky Github Organisation][assistantnmsGit
 
 ---
 
-[<img alt="hacktoberfest logo" src="../img/hacktoberfest2023.svg" />][hactoberfestWebsite]
+[<img alt="hacktoberfest logo" src="https://github.com/AssistantApps/.github/raw/main/img/hacktoberfest2023.svg" />][hactoberfestWebsite]
 
 Get rewarded for making Pull Requests into many of out repositories! Check out the [Hacktoberfest website][hactoberfestWebsite] for more details! 🥳
 
